@@ -7,7 +7,7 @@
 6. paste the github link
 7. wait until it clones
 8. go to settings.json
-9. paste "TOKEN" to ur bots token (if u dont know how to get a bots token, go to TOKEN.md)
+9. paste "token11" to ur bots token (if u dont know how to get a bots token, go to TOKEN.md)
 10. u can change the prefix if u want
 11. create roles so it can give followers
 12. copy the role id
